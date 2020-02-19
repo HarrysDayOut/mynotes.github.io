@@ -2,7 +2,7 @@
 
 This is where I will be uploading some links to my classroom notes. I am not trying to be Maithani but yeah it is cool. I am coding a lot anyway so might as well use this.
 
-## Links: Semester 4
+### _Links: Semester 4_
 
 ## **1. EE 224: Digital Logic Design (Prof. Virendra Singh)**
 https://bighome.iitb.ac.in/index.php/s/KpZpZXb48JsY5pL
