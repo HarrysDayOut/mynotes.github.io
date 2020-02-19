@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## You have reached my Notes.
 
-You can use the [editor on GitHub](https://github.com/HarrysDayOut/mynotes.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is where I will be uploading some links to my classroom notes. I am not trying to be Maithani but yeah it is cool. I am coding a lot anyway so might as well use this.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Links: Semester 4
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**1. EE 224: Digital Logic Design (Prof. Virendra Singh)**
+https://bighome.iitb.ac.in/index.php/s/KpZpZXb48JsY5pL
+**2. EE 210: Signals and Systems (Prof. JK Nair)**
+ Coming Soon
+**3. EE 222: Power Electronics (Prof. Kishore Chaterjee)**
+ Coming Soon 
+**4. EE 204: Analog Circuits (Prof. Rajesh Zele)**
+ Coming Soon
+**5. GNR 652: Machine Learning for Remote Sensing-1 (Prof. Biplap Banerjee)**
+ Coming Soon
+**6. CS 213: Data Structures and Algorithms**
+ Coming Soon
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HarrysDayOut/mynotes.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
