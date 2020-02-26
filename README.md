@@ -5,7 +5,7 @@ This is where I will be uploading some links to my classroom notes. I am not try
 ### _Links: Semester 4_
 
 ## **1. EE 224: Digital Logic Design (Prof. Virendra Singh)**
-https://bighome.iitb.ac.in/index.php/s/KpZpZXb48JsY5pL
+https://bighome.iitb.ac.in/index.php/s/yJ3cBycs8wBjWkp
 ## **2. EE 210: Signals and Systems (Prof. JK Nair)**
 https://bighome.iitb.ac.in/index.php/s/KSRoNTBFfsET2od
 ## **3. EE 222: Power Electronics (Prof. Kishore Chaterjee)**
